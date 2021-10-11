@@ -15,9 +15,7 @@ class ViewController: UIViewController {
         print("test")
         print("test02")
         print("featureブランチ作ったよ!")
-
+        //できたかな?
     }
-
-
 }
 
